@@ -37,6 +37,8 @@ Steps 25
 Sampler Euler a
 Seed 2299724292
 
+Negative prompt:
+easynegative, ng_deepnegative, (worst quality, low quality, normal quality:1.4), lowres, bad anatomy, extra fingers, fewer fingers, strange fingers, fused fingers, unclear eyes
 
 
 
